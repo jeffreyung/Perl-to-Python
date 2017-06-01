@@ -1,0 +1,28 @@
+22/09/15	11:15	N/A		started assignment
+22/09/15	11:30	11:45	modified original code by implementing subroutines
+22/09/15	12:10	12:30	implemented hash for variables to get values
+22/09/15	12:30	12:45	fixed print subroutine to enable values to be printed
+22/09/15	3:30	16:00	modified print so that it can determine if result is numeric
+22/09/15	5:00	5:30	reduced amount of lines in code
+24/09/15	9:30	10:55	renamed subroutines and added a convert variable to value subroutine
+24/09/15	10:55	11:00	passed all 5 test cases in first subset
+24/09/15	12:00	12:15	added conversion of if and while 
+24/09/15	12:15	12:20	added conversion of closed brackets to empty line
+24/09/15	12:20	12:45	added a count white space subroutine and passed subset 2 tests
+25/09/15	12:10	12:40	added conversion of stdin and import sys
+25/09/15	12:45	12:55	added conversion of argv
+25/09/15	13:30	13:50	added conversion of join function
+25/09/15	13:40	14:15	added conversion of foreach and reduced amount of lines
+25/09/15	14:15	14:45	implemented range for foreach
+25/09/15	14:45	14:55	fixed a bug where print wouldn't always function properly
+26/09/15	11:00	11:30	implemented arrays for multiple imports
+26/09/15	11:40	12:00	added conversion of substitution
+26/09/15	12:00	12:30	added convertion for "for loops" and "print" using argv
+26/09/15	13:00	13:20	improved print line subroutine
+26/09/15	13:30	13:55	implemented detection of float stdin
+26/09/15	15:30	15:50	improved join conversion subroutine
+26/09/15	15:50	16:30	improved detection of float stdin
+27/09/15	00:10	00:40	improved join subroutine conversion
+27/09/15	23:00	23:30	added conversion of push/pop function
+03/10/15	16:00	16:30	created test files 0-4
+03/10/15	16:30	17:30	created demo files 0-4
